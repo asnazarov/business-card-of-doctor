@@ -1,0 +1,65 @@
+ body {
+	 background-color:#CBCACF;
+ }
+ 
+ #wheaper {
+	padding:10px 0px;
+	width:1000px;
+	margin:0 auto;
+	border:2px solid #C22A6   2;  /*удалил двойку в конце*/
+	background-color:#C9C8CD; /*серый*/
+ }
+ 
+ #header {
+	height:150px;
+	background-color:#E0FFFF; /*#18C8EC */
+	margin:12px 5px; /*отступ от блока*/
+	border:2px solid #C22A6  2;
+	border-radius: 10px;
+	 background-image:url(../images/blueheader1.png);
+	 background-repeat:repeat-x;
+	 margin:0;
+	 padding:0;
+ }
+ 
+ #photo {
+	 height:387px;
+	 width:300px;
+	 background-color:#C9C8CD; /*серый*/
+	margin:12px 5px; /*отступ от блока*/
+	border:2px solid #C9C8CD;
+	float:left;
+ }
+ 
+ #priem {
+	 height:280px;
+	 width:670px;
+	 background-color:#FFCBDB;
+	margin:12px 5px; /*отступ от блока*/
+	border:2px solid #C22A6   2;
+	 float:right;
+	 border-radius: 10px;
+ }
+ 
+ #seti {
+	  height:60px;
+	  width:670px;
+	 background-color:#4252FF;
+	margin:12px 5px; /*отступ от блока*/
+	border:2px solid #C22A6   2;
+	 float:right;
+	 border-radius: 10px;
+
+ }
+ 
+ #vopros {
+	 height:50px;
+	 background-color:black;
+	margin:12px 5px; /*отступ от блока*/
+	border:2px solid #C22A6  2;
+	border-radius: 10px;
+ }
+ 
+ .clear {
+	 clear:both; /*отмена обтекания left right both*/
+ }
